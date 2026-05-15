@@ -17,7 +17,7 @@ const About = () => {
   };
 
 
- 
+
     const outlineButtonStyle: React.CSSProperties = {
       border: `2px solid ${colors.slate}`,
       color: colors.slate,

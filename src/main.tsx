@@ -9,7 +9,7 @@ ReactDOM.createRoot(
 ).render(
   <React.StrictMode>
     <HashRouter>
-    <App />
+      <App />
     </HashRouter>
   </React.StrictMode>
 );
