@@ -1,6 +1,6 @@
 import NavBar from "../components/NavBar";
 import Footer from "../components/Footer";
-import profileImg from "../Images/Profile.jpeg";
+import profileImg from "../Images/profile.jpeg";
 import { Link } from "react-router-dom";
 
 

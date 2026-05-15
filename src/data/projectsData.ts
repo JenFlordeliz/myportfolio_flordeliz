@@ -27,13 +27,13 @@ export const projectsData: ProjectData[] = [
         name: "FGLAB2",
         description: "React hooks practice.",
         link: "https://jenflordeliz.github.io/fg_lab2_flordeliz1/",
-        images: ["/Images/Asset2.png"]
+        images: ["/myportfolio_flordeliz/Images/Asset2.png"]
       },
       {
         name: "FGLAB3",
         description: "Database connection.",
         link: "https://jenflordeliz.github.io/Aptech_Flordeliz1/",
-        images: ["/Images/Asset3.png"]
+        images: ["/myportfolio_flordeliz/Images/Asset3.png"]
       }
     ]
   },
@@ -48,13 +48,13 @@ export const projectsData: ProjectData[] = [
         name: "MIDTERMLAB2",
         description: "Component splitting.",
         link: "https://jenflordeliz.github.io/MG_LAB5_Flordeliz/",
-        images: ["/Images/Asset4.png"]
+        images: ["/myportfolio_flordeliz/Images/Asset4.png"]
       },
       {
         name: "MIDTERMLAB3",
         description: "CRUD operations.",
         link: "https://jenflordeliz.github.io/MG_LAB3_FLORDELIZ/",
-        images: ["/Images/Asset5.png", "/Images/Asset6.png"]
+        images: ["/myportfolio_flordeliz/Images/Asset5.png", "/Images/Asset6.png"]
       }
     ]
   },
@@ -69,7 +69,7 @@ export const projectsData: ProjectData[] = [
         name: "FINLAB1",
         description: "API fetching.",
         link: "https://jenflordeliz.github.io/finals_lab1_flordeliz/",
-        images: ["/Images/Asset7.png"]
+        images: ["/myportfolio_flordeliz/Images/Asset7.png"]
       }
     ]
   }
